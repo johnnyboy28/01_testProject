@@ -1,5 +1,5 @@
 == README
-
+This is application created by John D.  It will just be a test app.
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
